@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8DF77B&background=FF197700&width=435&lines=Bhavin+Mistri;Mr.+Anoint)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8DF77B&background=FF197700&width=435&lines=Bhavin+Mistri;Mr.+Bhavin)](https://git.io/typing-svg)
 <p>
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
