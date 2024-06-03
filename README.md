@@ -2,9 +2,9 @@
 
 ### 👨‍💻: About Me :
 
-🔍🧪 I'm **Bhavin Mistri, a Manual Tester**, dedicated to ensuring the quality of software.
+🔍🧪 I'm **Bhavin Mistry, a Automation | Manual Tester**, dedicated to ensuring the quality of any software.
 
-🚀🕵️ On a mission to explore and identify every aspect of software testing.
+🚀🕵️ On a mission to explore and dwell every aspect of software testing methodologies.
 
 🔒💡 Passionate about **manual testing methodologies** and finding hidden bugs.
 
